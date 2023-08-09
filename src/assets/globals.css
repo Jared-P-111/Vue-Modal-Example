@@ -1,0 +1,6 @@
+/* global styles need to be imported to the main.js file for useage. */
+
+body {
+  margin: 0;
+  padding: 0;
+}
